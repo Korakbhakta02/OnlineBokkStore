@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Build script for serving static content instead of php files
-DEST="./public_html"
+DEST="./superb-palmier-195721"
 html=".html"
 
 # Create destination folder
